@@ -35,4 +35,5 @@ My adventure while learning The Rust Programming Language
 - [Book - Rust in Action](https://www.amazon.com.au/Rust-Action-Tim-McNamara/dp/1617294551/)
 - [Videos - Jon Gjengset](https://www.youtube.com/c/JonGjengset/videos)
 - [Video - Creating a Chat Server with async Rust and Tokio](https://www.youtube.com/watch?v=Iapc-qGTEBQ)
+- [Videos - Rust Book Study Sessions](https://www.youtube.com/playlist?list=PL8AZrEE2-qZkcOFmpC03TwnVHSr25luFp)
 
