@@ -43,4 +43,5 @@ My adventure while learning The Rust Programming Language
 - [Creating a Chat Server with async Rust and Tokio](https://www.youtube.com/watch?v=Iapc-qGTEBQ)
 - [Rust Book Study Sessions](https://www.youtube.com/playlist?list=PL8AZrEE2-qZkcOFmpC03TwnVHSr25luFp)
 - [Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s)
+- [Rust & Wasm (Safe and fast web development)](https://www.youtube.com/watch?v=P4LMfkFLRsI)
 
