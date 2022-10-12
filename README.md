@@ -16,6 +16,7 @@ My adventure while learning The Rust Programming Language
 - [Evcxr - An evaluation context for Rust](https://github.com/google/evcxr)
 - [Experiment: Improving the Rust Book](https://rust-book.cs.brown.edu/)
 - [Game of Life Exercise](https://github.com/caspark/rust-game-of-life-exercises)
+- [Rust Lang Nursery - Repos](https://github.com/rust-lang-nursery)
 
 ### Docs
 
@@ -32,6 +33,7 @@ My adventure while learning The Rust Programming Language
   - [Crates](http://crates.io/)
   - [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 - [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html)
+- [Rust Lang Nursery - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 
 ### Books
 
