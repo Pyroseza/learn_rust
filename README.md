@@ -50,6 +50,7 @@ My adventure while learning The Rust Programming Language
 - [Rust Book Study Sessions](https://www.youtube.com/playlist?list=PL8AZrEE2-qZkcOFmpC03TwnVHSr25luFp)
 - [Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s)
 - [Rust & Wasm (Safe and fast web development)](https://www.youtube.com/watch?v=P4LMfkFLRsI)
+- [Great Rust Videos - No Boilerplate](https://www.youtube.com/watch?v=TJTDTyNdJdY&list=PLZaoyhMXgBzozt1LeHkCv8ERUPxhXT1eE)
 
 ### Podcasts
 
