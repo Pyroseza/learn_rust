@@ -41,6 +41,7 @@ My adventure while learning The Rust Programming Language
 - [The Rustonomicon - The Dark Arts of Unsafe Rust](https://doc.rust-lang.org/nomicon/index.html)
 - [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 - [Rust in Action](https://www.amazon.com.au/Rust-Action-Tim-McNamara/dp/1617294551/)
+- [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/rustbook/)
 
 ### Videos
 
